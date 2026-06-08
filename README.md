@@ -1,2 +1,2 @@
-# Auto-Input-Pajak-Keluaran-Coretax
-Alat automasi pekerjaan laporan pajak keluaran Coretax
+# Auto-Input-Pajak-Masukan-Coretax
+Alat automasi pekerjaan laporan pajak masukan Coretax
